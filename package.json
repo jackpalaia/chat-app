@@ -1,0 +1,19 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "Basic chat application built using node.js, express, and web sockets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackpalaia/chat-app.git"
+  },
+  "author": "Jack Palaia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackpalaia/chat-app/issues"
+  },
+  "homepage": "https://github.com/jackpalaia/chat-app#readme"
+}
